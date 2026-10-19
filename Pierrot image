@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <title>Pierrot images</title>
+     </head>
+     <body>
+         <h1>Pierrot</h1>
+         <p>1.</p>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt9GiAdC1mNLz5DJoxpdsc1vuBAEnH2ZQ-uJdpDLBRqg&s=10" alt="Pierrot1" width="200" height="300">
+         <p>2.</p>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4jXE0xeq8pgrXR-ifTxASJHtXEekF09e-_LzOtbR5Gw&s=10" alt="Pierrot2" width="200" height="300">
+         <p>3.</p>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfX2l9GJGrCefEJBrnXgUp5iV3zCEPlXobcG2hEkeatiBtgDax4VKwRoKx&s=10" alt="Pierrot3" width="200" height="300">
+         <p>4.</p>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9U5rWa3LEx_OmNihF_DljCu7uKM53TBWaPZt_MHgGLAB4UBPCHx58LE&s=10" alt="Pierrot4" width="200" height="300">
+         <p>5.</p>
+         <img src="https://static.wikia.nocookie.net/clownopedia/images/5/5f/Pierrot_Clown.jpg/revision/latest?cb=20231107063619" alt="Pierrot5" width="200" height="300">
+         <p>Click "back" to return</p>
+<a href="https://fuzzy-halibut-j4r695946jgh599j-3000.app.github.dev/index.html?serverWindowId=fffca7d5-edd4-487b-b756-aa193b368b8b">Back</a>
+         </body>

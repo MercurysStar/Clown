@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <title>Jester images</title>
+     </head>
+     <body>
+         <h1>Jester</h1>
+         <p>1.</p>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76qSPun1vsGRBEqjzHARMwvNRofW-Ma5rbsl8Ov5l2A&s=10" alt="Jester1" width="150" height="300">
+         <p>2.</p>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4y6mkXnJYbNWx3pDxON87MoJzjnH_ip9e7vxEXOGxXA&s=10" alt="Jester2" width="200" height="300">
+         <p>3.</p>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYJMc2R7VpiL2myAYmahRkeeClG3W2pJ4DwbxLH-raQ&s=10" alt="Jester3" width="250" height="300">
+         <p>4.</p>
+         <img src="https://fancydressforyou.com/cdn/shop/files/Medieval-Jester-Costume-Adult-Purple-Black.jpg?v=1714668013" alt="Jester4" width="300" height="300">
+         <p>5.</p>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkdRkjcLO5__ANGMfQwTuvERs2thEUxJSSQ6Mt81Bzg&s=10" alt="Jester5" width="250" height="300">
+         <p>Click "back" to return</p>
+<a href="https://fuzzy-halibut-j4r695946jgh599j-3000.app.github.dev/index.html?serverWindowId=fffca7d5-edd4-487b-b756-aa193b368b8b">Back</a>
+     </body>
